@@ -1,3 +1,5 @@
 "Notas importantes" 
 "L¡nea a¤adida desde PC1" 
 "Cambio B desde PC2" 
+"Cambio A desde PC1" 
+ca046d216fc69a1f98474a2b60b7e2e1e8aade21

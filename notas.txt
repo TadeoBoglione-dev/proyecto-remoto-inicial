@@ -1,2 +1,3 @@
 "Notas importantes" 
 "L¡nea a¤adida desde PC1" 
+"Cambio A desde PC1" 

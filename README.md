@@ -1,1 +1,6 @@
-"# Proyecto remoto inicial" 
+"# Proyecto remoto inicial"
+
+\## Objetivos
+
+\- Aprender a trabajar con remotos.
+
